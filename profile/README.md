@@ -1,4 +1,4 @@
-![Logo Something New](https://something-new.ro/wp-content/uploads/2023/10/logo-something-new.png "Asociația Creștină Something New")
+![Logo Something New](https://something-new.ro/wp-content/uploads/2023/01/Logo-Something-New-Neve.png "Asociația Creștină Something New")
 
 # Proiecte Something New
 
