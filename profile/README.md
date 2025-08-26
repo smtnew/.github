@@ -26,8 +26,6 @@ Aici vei găsi:
 
 ## Bope – Pizzeria & Cafeneaua Comunitară
 
-![Bope Coffee](https://bope.something-new.ro/assets/bope-logo.png "Bope Coffee")
-
 **Bope by Something New** este un spațiu comunitar unde combinăm pasiunea pentru mâncare bună și cafea de specialitate cu dorința de a susține proiectele caritabile Something New.  
 Profitul generat sprijină direct activitățile educaționale și sociale ale organizației.
 
