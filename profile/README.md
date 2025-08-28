@@ -1,5 +1,3 @@
-![Logo Something New](https://something-new.ro/wp-content/uploads/2023/01/Logo-Something-New-Neve.png "Asociația Creștină Something New")
-
 # Proiecte Something New
 
 Acest repository GitHub este dedicat dezvoltării și stocării site-urilor, aplicațiilor și resurselor digitale folosite de **Asociația Creștină Something New** din Cluj-Napoca. 
